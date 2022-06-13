@@ -2,6 +2,12 @@
 
 You can use the [editor on GitHub](https://github.com/aso5656/aso5656.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+```java
+public static void main(String[] args) {
+  System.out.println("Hello world!")
+}
+```
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
@@ -15,11 +21,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-```java
-public static void main(String[] args) {
-  System.out.println("Hello world!")
-}
-```
+
 - Bulleted
 - List
 
