@@ -15,6 +15,11 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+```java
+public static void main(String[] args) {
+  System.out.println("Hello world!")
+}
+```
 - Bulleted
 - List
 
