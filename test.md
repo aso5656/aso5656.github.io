@@ -29,7 +29,7 @@ subfunds=[dict([("title",item[item.find(".")+2 : ]),("isin",[])])for item in sub
 # 'isin': ['LU0329630999', 'LU0329630130']}]
 
 #Count values by index difference
-sub_index = [subs.index(item) for item in subs]
+sub_index = [subs.index(item) for item in subfunds_title]
 sub_index.append(len(a))
 #[0, 4, 6, 10, 13]
 
