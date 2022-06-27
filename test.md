@@ -4,7 +4,7 @@ long_text_to_list = [item for item in long_text.split("\n") if item]
 
 #helper function to return slice of long_text_to_list
 def chunks(start,end):
-    return long_text_to_list[start:end]
+    return long_text_to_list[2:][start:end]
 
 #create a new dict
 data = dict()
